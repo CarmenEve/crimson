@@ -1,0 +1,685 @@
+index,name,team,gender
+0,Anna Burt,cross country,1.0
+1,Aislinn Devlin,cross country,1.0
+2,Valentina Doerre Torre,cross country,1.0
+3,Eloise Freitag,cross country,1.0
+4,Abbe Goldstein,cross country,1.0
+5,Shaked Leibovitz,cross country,1.0
+6,Tessa Medrano,cross country,1.0
+7,Maia Ramsden,cross country,1.0
+8,Iz Sagar,cross country,1.0
+9,Lisa Tertsch,cross country,1.0
+10,Eleanor Wikstrom,cross country,1.0
+11,Oliver Adler,cross country,0.0
+12,Kyle Englander,cross country,0.0
+13,John Fish,cross country,0.0
+14,Alex Fleury,cross country,0.0
+15,Mike Kolor,cross country,0.0
+16,Jack McDonough,cross country,0.0
+17,Hugo Milner,cross country,0.0
+18,Dominique Petrie,ice hockey,1.0
+19,Eva Dorr,ice hockey,1.0
+20,Paige Lester,ice hockey,1.0
+21,Rose O'Connor,ice hockey,1.0
+22,Taze Thompson,ice hockey,1.0
+23,Jaeschel Acheampong,track,0.0
+24,Oliver Adler,track,0.0
+25,Rodney Agyare-May,track,0.0
+26,Jacob Ali-Wertheimer,track,0.0
+27,Samuel Bennett,track,0.0
+28,Eros Bottino,track,0.0
+29,LJ Daniel,track,0.0
+30,Peter Diebold,track,0.0
+31,Wesley Donhauser,track,0.0
+32,Erick Duffy,track,0.0
+33,Chet Ellis,track,0.0
+34,Kyle Englander,track,0.0
+35,John Fish,track,0.0
+36,Alex Fleury,track,0.0
+37,Jonathan Gamarra,track,0.0
+38,Josh Glauser,track,0.0
+39,Tré Hollingsworth,track,0.0
+40,Alexander Kolesnikoff,track,0.0
+41,Mike Kolor,track,0.0
+42,Jack McDonough,track,0.0
+43,Hugo Milner,track,0.0
+44,Simon Park,track,0.0
+45,Sebastian Pereira,track,0.0
+46,Aaron Shirley,track,0.0
+47,Ryan Thrush,track,0.0
+48,Lance Ward,track,0.0
+49,Kahlil Wassell,track,0.0
+50,Sam Welsh,track,0.0
+51,Jovahn Williamson,track,0.0
+52,Sam Wright,track,0.0
+53,Eleanor Wikstrom,track,1.0
+54,Kym Wimberly,football,0.0
+55,Daniel Abraham,football,0.0
+56,Luke Emge,football,0.0
+57,Luke Bridges,football,0.0
+58,Khalid Thomas,football,0.0
+59,Kaedyn Odermann,football,0.0
+60,Bennett Bay,football,0.0
+61,Pat Holly,football,0.0
+62,Grayson Sandlin,football,0.0
+63,Charlie Dean,football,0.0
+64,Curt Casteel,football,0.0
+65,Isaiah Wingfield,football,0.0
+66,Jean-Bernard Zoungrana,football,0.0
+67,Marcus Miller,football,0.0
+68,Jack Bill,football,0.0
+69,Kaleb Moody,football,0.0
+70,Tyler Adams,football,0.0
+71,RuQuan Brown,football,0.0
+72,Aaron Shampklin,football,0.0
+73,Aidan Borguet,football,0.0
+74,Jason Brown,football,0.0
+75,Diassa Diakite,football,0.0
+76,Khalil Dawsey,football,0.0
+77,Israel Benjamin,football,0.0
+78,DeMarkes Stradford,football,0.0
+79,Phillip Smitherman,football,0.0
+80,Devin Vasquez,football,0.0
+81,Sone Ntoh,football,0.0
+82,Alex Washington,football,0.0
+83,Jelani Machen,football,0.0
+84,Ben Abercrombie,football,0.0
+85,Devin Darrington,football,0.0
+86,Garrett Sharp,football,0.0
+87,Cam Stone,football,0.0
+88,Matt Tynes,football,0.0
+89,Mitchell Gonser,football,0.0
+90,Jon Sot,football,0.0
+91,Brent Malone,football,0.0
+92,Brian Cromwell,football,0.0
+93,Ben Harding,football,0.0
+94,Kobe Joseph,football,0.0
+95,David O'Keeffe,football,0.0
+96,Kyle Klink,football,0.0
+97,Michael Burrell,football,0.0
+98,Cali Canaval,football,0.0
+99,Tim Dowd,football,0.0
+100,Matt Hudson,football,0.0
+101,Thor Griffith,football,0.0
+102,Nate Leskovec,football,0.0
+103,Brock Locnikar,football,0.0
+104,Solomon Egbe,football,0.0
+105,Jordan Hill,football,0.0
+106,Kevens Grammont,football,0.0
+107,Micaiah Bell,football,0.0
+108,Logan Clifton,football,0.0
+109,Jake Lugg,football,0.0
+110,Logan Bednar,football,0.0
+111,Carson Winkie,football,0.0
+112,Mason Williams,football,0.0
+113,Joseph Alexander,football,0.0
+114,Ben Scoggin,football,0.0
+115,Ean Norenberg,football,0.0
+116,Jacob Rizy,football,0.0
+117,Chris Smith,football,0.0
+118,Aidan Wells,football,0.0
+119,James Lee,football,0.0
+120,Eric Wilson,football,0.0
+121,Garrett Seymour,football,0.0
+122,Scott Elliott,football,0.0
+123,Alec Bank,football,0.0
+124,Kwaku Adubofour,football,0.0
+125,Spencer Rolland,football,0.0
+126,Tom Aicardi,football,0.0
+127,Tyler Huenemann,football,0.0
+128,Hunt Sparks,football,0.0
+129,Will Christiansen,football,0.0
+130,Patrick Walsh,football,0.0
+131,Gavin Olsen,football,0.0
+132,Garrison Manor,football,0.0
+133,Will Troutman,football,0.0
+134,Haven Montefalco,football,0.0
+135,Anthony Nelson,football,0.0
+136,Pearson Dennis,football,0.0
+137,Riley Kunz,football,0.0
+138,Adam Shepherd,football,0.0
+139,Gavin Sharkey,football,0.0
+140,Tyler Neville,football,0.0
+141,Chris Ramundo,football,0.0
+142,Trevin Taylor,football,0.0
+143,North Peters,football,0.0
+144,Nasir Darnell,football,0.0
+145,Griffin Burke,football,0.0
+146,Kelvin Apari,football,0.0
+147,Collin Richardson,football,0.0
+148,David Madzivanyika,football,0.0
+149,Jacob Sykes,football,0.0
+150,Grant Fairbairn,golf,0.0
+151,Kevin Sze,golf,0.0
+152,Sara Park,basketball,1.0
+153,Tess Sussman,basketball,1.0
+154,Matilda Salen,basketball,1.0
+155,Maria Guramare,basketball,1.0
+156,Naomi-Grace Jennings,basketball,1.0
+157,Gabby Donaldson,basketball,1.0
+158,Jadyn Bush,basketball,1.0
+159,Annie Stritzel,basketball,1.0
+160,McKenzie Forbes,basketball,1.0
+161,Kennedy Heath,basketball,1.0
+162,Lindsey Lawson,basketball,1.0
+163,Sabre Zimmer,basketball,1.0
+164,Julia Abbruzzese,heavyweight rowing,1.0
+165,Isabelle Bastian,heavyweight rowing,1.0
+166,Casey Batson,heavyweight rowing,1.0
+167,Bente Bechtold,heavyweight rowing,1.0
+168,Charlotte Berry,heavyweight rowing,1.0
+169,Morgan Blind,heavyweight rowing,1.0
+170,Amanda Caromicoli,heavyweight rowing,1.0
+171,Hope Cessford,heavyweight rowing,1.0
+172,Josie Coleman,heavyweight rowing,1.0
+173,Sophie De Angelis,heavyweight rowing,1.0
+174,Nalani Dziama,heavyweight rowing,1.0
+175,Salome Garnier,heavyweight rowing,1.0
+176,Tessa Haining,heavyweight rowing,1.0
+177,Alexandrea Harriott,heavyweight rowing,1.0
+178,Kaija Hornburg,heavyweight rowing,1.0
+179,Ella Hudson,heavyweight rowing,1.0
+180,Heidi Jacobson,heavyweight rowing,1.0
+181,Monah Javidan,heavyweight rowing,1.0
+182,Autumn Johnson,heavyweight rowing,1.0
+183,Meredith Kent,heavyweight rowing,1.0
+184,Cate MacDonald,heavyweight rowing,1.0
+185,Mary McDermott,heavyweight rowing,1.0
+186,Jillian McEneaney,heavyweight rowing,1.0
+187,Sally Noble,heavyweight rowing,1.0
+188,Bridget O'Kelly,heavyweight rowing,1.0
+189,Idabelle Paterson,heavyweight rowing,1.0
+190,Rosie Poling,heavyweight rowing,1.0
+191,Samantha Sarafin,heavyweight rowing,1.0
+192,Gretchen Schoenberger,heavyweight rowing,1.0
+193,Madison Shirazi,heavyweight rowing,1.0
+194,Lauren Smits,heavyweight rowing,1.0
+195,Hannah Van Der Sluijs,heavyweight rowing,1.0
+196,Mckenzy Wall,heavyweight rowing,1.0
+197,Aidan Walz,heavyweight rowing,1.0
+198,Xaley Yousey,heavyweight rowing,1.0
+199,Maggie Bartchy,lightweight rowing,1.0
+200,Madelyn Brody,lightweight rowing,1.0
+201,Amy Butler,lightweight rowing,1.0
+202,Sophie Campbell,lightweight rowing,1.0
+203,Katie Dubinski,lightweight rowing,1.0
+204,Olivia Farrar,lightweight rowing,1.0
+205,Elsa Froggatt-Brown,lightweight rowing,1.0
+206,Sophia Gilroy,lightweight rowing,1.0
+207,Ellie Hamilton,lightweight rowing,1.0
+208,Alexa Jacques,lightweight rowing,1.0
+209,Zizi Kendall,lightweight rowing,1.0
+210,Brigid Kennedy,lightweight rowing,1.0
+211,Abigail Koerner,lightweight rowing,1.0
+212,Mary Kolesar,lightweight rowing,1.0
+213,Jeanne Lauer,lightweight rowing,1.0
+214,Allison Lee,lightweight rowing,1.0
+215,Hannah McNeill,lightweight rowing,1.0
+216,Isabel Mehta,lightweight rowing,1.0
+217,Katie Rotenberg,lightweight rowing,1.0
+218,Ava Sack,lightweight rowing,1.0
+219,Arsh Sekhon,lightweight rowing,1.0
+220,Ella Serrano-Wu,lightweight rowing,1.0
+221,Ryan Swardstrom,lightweight rowing,1.0
+222,Josephine Volk,lightweight rowing,1.0
+223,Ana Watley,lightweight rowing,1.0
+224,Claire Wigglesworth,lightweight rowing,1.0
+225,Libby Wu,lightweight rowing,1.0
+226,Greta Candreva,fencing,1.0
+227,Veronica Czyzewski,fencing,1.0
+228,Melissa Du,fencing,1.0
+229,Saanchi Kukadia,fencing,1.0
+230,Annora Lee,fencing,1.0
+231,Elizabeth Tartakovsky,fencing,1.0
+232,Maria Theodore,fencing,1.0
+233,Ellie Shahbo,field hockey,1.0
+234,Hannah Pearce,field hockey,1.0
+235,Kolbe Keating,field hockey,1.0
+236,Mazarine Broze,field hockey,1.0
+237,Natalie Sicher,field hockey,1.0
+238,Rachel Greenwood,field hockey,1.0
+239,Siofra Murdoch,field hockey,1.0
+240,Lilly Whitman,field hockey,1.0
+241,Olivia Hoover,field hockey,1.0
+242,Sofia Castore,field hockey,1.0
+243,Avery Donahue,field hockey,1.0
+244,Isabella Gomez,golf,1.0
+245,Belinda Hu,golf,1.0
+246,Yoona Kim,golf,1.0
+247,Anina Ku,golf,1.0
+248,Jessica Luo,golf,1.0
+249,Melissa Meng,golf,1.0
+250,Chloe Royston,golf,1.0
+251,Hannah Valencia,lacrosse,1.0
+252,Madison Conklin,lacrosse,1.0
+253,Camerin Rawson,lacrosse,1.0
+254,Celia Concannon,lacrosse,1.0
+255,NIna McCormick,lacrosse,1.0
+256,Sierra Agarwal,lacrosse,1.0
+257,Grace Bartosh,lacrosse,1.0
+258,Charlotte Clark,lacrosse,1.0
+259,Tessa Queri,lacrosse,1.0
+260,Olivia Gill,lacrosse,1.0
+261,Chelsea Marlborough,lacrosse,1.0
+262,Charlotte Swisher,lacrosse,1.0
+263,Stephanie Hong,lacrosse,1.0
+264,Olivia Proctor,lacrosse,1.0
+265,Ilana Kofman,lacrosse,1.0
+266,Caroline Behrens,lacrosse,1.0
+267,Gina-Marie Ricciotti,lacrosse,1.0
+268,Meredith Langmuir,lacrosse,1.0
+269,Jayne Morley,lacrosse,1.0
+270,Riley Campbell,lacrosse,1.0
+271,Grace Rotondo,lacrosse,1.0
+272,Emily Ryan,lacrosse,1.0
+273,Chloe Provenzano,lacrosse,1.0
+274,Alison Crump,lacrosse,1.0
+275,Charley Meier,lacrosse,1.0
+276,Achele Agada,rugby,1.0
+277,Cassidy Bargell,rugby,1.0
+278,Francesca Barr,rugby,1.0
+279,Chiara Darnton,rugby,1.0
+280,Sofie Fella,rugby,1.0
+281,Gabrielle Fernandopulle,rugby,1.0
+282,Michelle Groth,rugby,1.0
+283,Carine Hajjar,rugby,1.0
+284,Kim Hartung,rugby,1.0
+285,Erica Jarrell,rugby,1.0
+286,Emma Kearney,rugby,1.0
+287,Rebecca Lisk,rugby,1.0
+288,Christina Lowell,rugby,1.0
+289,Heidi Lucas,rugby,1.0
+290,Nafanua Malietoa Fitisemanu,rugby,1.0
+291,Alex Pipkin,rugby,1.0
+292,Alicia Rivera,rugby,1.0
+293,Milan Roberts,rugby,1.0
+294,Arianna Romero,rugby,1.0
+295,Sephora Ruppert,rugby,1.0
+296,Elianne Sacher,rugby,1.0
+297,Nina Uzoigwe,rugby,1.0
+298,Erin Wright,rugby,1.0
+299,Anjalika Ybema,rugby,1.0
+300,Gayatri Balasubramanian,sailing,0.5
+301,Katie Barkin,sailing,0.5
+302,Emma Jakobson,sailing,0.5
+303,Emma Kaneti,sailing,0.5
+304,Paul Kuechler,sailing,0.5
+305,Alex Lee,sailing,0.5
+306,Cassia Lee,sailing,0.5
+307,Corinne Lee,sailing,0.5
+308,Marbella Marlo,sailing,0.5
+309,Tyler Masuyama,sailing,0.5
+310,Lachlain McGranahan,sailing,0.5
+311,Gorham Partington,sailing,0.5
+312,Julianna Ruggieri,sailing,0.5
+313,Owen Schafer,sailing,0.5
+314,Cindy Tian,sailing,0.5
+315,Carolyn Wang,sailing,0.5
+316,Chris Wang,sailing,0.5
+317,Emily Wang,sailing,0.5
+318,Laura Appleby,skiing,0.5
+319,Lily Brunelle,skiing,0.5
+320,Rémi Drolet,skiing,0.5
+321,Eva Goluza,skiing,0.5
+322,Annabel Hagen,skiing,0.5
+323,Elsie Halvorsen,skiing,0.5
+324,Madeline Kitch,skiing,0.5
+325,Sydney Mason,skiing,0.5
+326,Christopher O'Brien,skiing,0.5
+327,Julian Schmitt,skiing,0.5
+328,Uberto Tarantelli,skiing,0.5
+329,Ursula Volz,skiing,0.5
+330,Hannah Gardner,soccer,1.0
+331,Cammie Dopke,soccer,1.0
+332,Sammy Murrell,soccer,1.0
+333,Lauren Raimondo,soccer,1.0
+334,Hannah Griffin,soccer,1.0
+335,Angela Caloia,soccer,1.0
+336,Trinity Thomas,soccer,1.0
+337,Taylor Nielsen,soccer,1.0
+338,Jillian Wachira,soccer,1.0
+339,Hollyn Torres,soccer,1.0
+340,Megan Mackey,soccer,1.0
+341,Courtney Rabb,soccer,1.0
+342,Chamberlain Mathis,soccer,1.0
+343,Ainsley Ahmadian,soccer,1.0
+344,Hannah Bebar,soccer,1.0
+345,Taylor Fasnacht,soccer,1.0
+346,Smith Hunter,soccer,1.0
+347,Anna Karpenko,soccer,1.0
+348,Cayla McFarlane,soccer,1.0
+349,Maddie Chai,squash,1.0
+350,Evie Coxon,squash,1.0
+351,Hannah Craig,squash,1.0
+352,Serena Daniel,squash,1.0
+353,Binney Huffman,squash,1.0
+354,Hana Moataz,squash,1.0
+355,Charlotte Orcutt,squash,1.0
+356,Marina Stefanoni,squash,1.0
+357,Brittany Sun,squash,1.0
+358,Amina Yousry,squash,1.0
+359,Mandy Brenner,swimming,1.0
+360,Victoria,swimming,1.0
+361,Eisenhauer,swimming,1.0
+362,Darlene Fung,swimming,1.0
+363,Evie Geier,swimming,1.0
+364,Maddie Heilbrun,swimming,1.0
+366,Elizabeth Holmes,swimming,1.0
+367,Alison Hu,swimming,1.0
+368,Esther Lawrence,swimming,1.0
+369,Daniela Liera,swimming,1.0
+370,Claire Lin,swimming,1.0
+371,Helena Moreno,swimming,1.0
+373,Michelle Owens,swimming,1.0
+374,Cassandra,swimming,1.0
+375,Pasadyn,swimming,1.0
+376,Felicia Pasadyn,swimming,1.0
+377,Kennidy Quist,swimming,1.0
+378,Allie Russell,swimming,1.0
+379,Claire Suen,swimming,1.0
+380,Mikki Thompson,swimming,1.0
+381,Ingrid Wall,swimming,1.0
+383,Natalie Whalen,swimming,1.0
+384,Athena Ye,swimming,1.0
+385,Jaycee Yegher,swimming,1.0
+386,Grace Yoon,swimming,1.0
+387,Sophia Zhang,swimming,1.0
+388,Annika Bassey,tennis,1.0
+389,Iveta Daujotaite,tennis,1.0
+390,Rachel Eason,tennis,1.0
+391,Sany Gawande,tennis,1.0
+392,Sophia Ho,tennis,1.0
+393,Amy Huang,tennis,1.0
+394,Kayla Leschly,tennis,1.0
+395,Anna Li,tennis,1.0
+396,Rachel Lim,tennis,1.0
+397,Mihaela Marculescu,tennis,1.0
+398,Demi Snyder,tennis,1.0
+399,Chelsea Williams,tennis,1.0
+400,Lauryn Wu,tennis,1.0
+401,Grace Varsames,volleyball,1.0
+402,Mindie Mabry,volleyball,1.0
+403,Julia Beckmann,volleyball,1.0
+404,Sandra Zeng,volleyball,1.0
+405,Evelyn Gray,volleyball,1.0
+406,Olivia Cooper,volleyball,1.0
+407,Nicole Prescott,volleyball,1.0
+408,Ariana White,volleyball,1.0
+409,Annabel Facey,water polo,1.0
+410,Josie Mobley,water polo,1.0
+411,Ella Prentice,water polo,1.0
+412,Annabelle Paterson,water polo,1.0
+413,Dany Zapata,water polo,1.0
+414,Inde Halligan,water polo,1.0
+415,Grace Thawley,water polo,1.0
+416,Brooke Hourigan,water polo,1.0
+417,Olivia Price,water polo,1.0
+418,Jaiden Miller,water polo,1.0
+419,Annabelle Bisconti,water polo,1.0
+420,Sasha Constandse,water polo,1.0
+421,Ben Rounds,baseball,0.0
+422,Will Jacobsen,baseball,0.0
+423,James Kirkpatrick,baseball,0.0
+424,Pryor Thomas,baseball,0.0
+425,Matt Thomas,baseball,0.0
+426,Harrison Stovern,baseball,0.0
+427,Tommy Seidl,baseball,0.0
+428,Spencer Williams,baseball,0.0
+429,Zachary Brown,baseball,0.0
+430,Adam Stone,baseball,0.0
+431,Chris McGrory,baseball,0.0
+432,Jack Mahala,baseball,0.0
+433,Ian Buckner,baseball,0.0
+434,Owen Holt,baseball,0.0
+435,Seamus Buckley,baseball,0.0
+436,Enzo Stefanoni,baseball,0.0
+437,Joseph O'Connell,baseball,0.0
+438,Matthew Jenkins,baseball,0.0
+439,Tim Williamson,baseball,0.0
+440,Jake Berger,baseball,0.0
+441,Christopher Clark,baseball,0.0
+442,Jay Driver,baseball,0.0
+443,Porter Jordheim,baseball,0.0
+444,William Lybrook,baseball,0.0
+445,Peter Messervy,baseball,0.0
+446,Uday Narrotam,baseball,0.0
+447,Christopher Snopek,baseball,0.0
+448,Josh Hemmings,basketball,0.0
+449,Luka Sakota,basketball,0.0
+450,Idan Tretout,basketball,0.0
+451,Chris Ledlum,basketball,0.0
+452,Rio Haskett,basketball,0.0
+453,Noah Kirkwood,basketball,0.0
+454,Evan Nelson,basketball,0.0
+455,Spencer Freedman,basketball,0.0
+456,Samuel Silverstein,basketball,0.0
+457,Mason Forbes,basketball,0.0
+458,Justice Ajogbor,basketball,0.0
+459,Kale Catchings,basketball,0.0
+460,Ciaran Brayboy,basketball,0.0
+461,Danilo Djuricic,basketball,0.0
+462,Tommy O'Neil,basketball,0.0
+463,Reed Farley,basketball,0.0
+464,Zane Carboni,heavyweight rowing,0.0
+465,Clark Dean,heavyweight rowing,0.0
+466,Can Keles,heavyweight rowing,0.0
+467,Victor Kleshnev,heavyweight rowing,0.0
+468,Jacob Kurlander,heavyweight rowing,0.0
+469,Haeyun Lee,heavyweight rowing,0.0
+470,Nicholas Plaut,heavyweight rowing,0.0
+471,Thomas Satterthwaite,heavyweight rowing,0.0
+472,Jack Taylor,heavyweight rowing,0.0
+473,Catherine Ye,heavyweight rowing,0.0
+474,Larson Avery,lightweight rowing,0.0
+475,Lars Caspersen,lightweight rowing,0.0
+476,Westby Caspersen,lightweight rowing,0.0
+477,Matty Cheng,lightweight rowing,0.0
+478,Fraser Darling,lightweight rowing,0.0
+479,Adam Dwyer,lightweight rowing,0.0
+480,Andreas Frank,lightweight rowing,0.0
+481,Abby LaBreck,lightweight rowing,0.0
+482,Evan MacRae,lightweight rowing,0.0
+483,Jake Marlo,lightweight rowing,0.0
+484,Johann May,lightweight rowing,0.0
+485,Ryan McCarthy,lightweight rowing,0.0
+486,Zachary Mecca,lightweight rowing,0.0
+487,Cole Petersen,lightweight rowing,0.0
+488,James Plaut,lightweight rowing,0.0
+489,Richard Reid,lightweight rowing,0.0
+490,Ben Roberts,lightweight rowing,0.0
+491,Alick Rose,lightweight rowing,0.0
+492,Ben Weatherwax,lightweight rowing,0.0
+493,Stearns Weil,lightweight rowing,0.0
+494,Kenji Bravo,fencing,0.0
+495,Filip Dolegiewicz,fencing,0.0
+496,Andrew Lee,fencing,0.0
+497,Mitchell Saron,fencing,0.0
+498,Adrien Thein-Sandler,fencing,0.0
+499,Geoffrey Tourette,fencing,0.0
+500,Josh Willcox,fencing,0.0
+501,Edward Zhao,fencing,0.0
+502,Jack Frisoli,lacrosse,0.0
+503,Frankie Tangredi,lacrosse,0.0
+504,Lake De La Fuente,lacrosse,0.0
+505,Ray Fitzgerald,lacrosse,0.0
+506,Austin Madronic,lacrosse,0.0
+507,James Swartz,lacrosse,0.0
+508,Kyle Salvatore,lacrosse,0.0
+509,George Alvarez,lacrosse,0.0
+510,Collin Bergstrom,lacrosse,0.0
+511,Logan Darrin,lacrosse,0.0
+512,Andrew Degennaro,lacrosse,0.0
+513,Jaden Jernigan,lacrosse,0.0
+514,Sam King,lacrosse,0.0
+515,Thomas Martinson,lacrosse,0.0
+516,Brennan McBride,lacrosse,0.0
+517,Andrew O'Berry,lacrosse,0.0
+518,Philip Geanakoplos,soccer,0.0
+519,Gianluca Trofa,soccer,0.0
+520,James Fahmy,soccer,0.0
+521,Nik White,soccer,0.0
+522,George Nageeb,soccer,0.0
+523,Nico Garcia-Morillo,soccer,0.0
+524,Cornelius Bencsik,soccer,0.0
+525,Charlie Peary,soccer,0.0
+526,Alfred Perez,soccer,0.0
+527,Paolo Belloni-Urso,soccer,0.0
+528,Martin Vician,soccer,0.0
+529,Galen Lewis,soccer,0.0
+530,Duncan Sutherland,soccer,0.0
+531,Alex Debayo-Doherty,soccer,0.0
+532,Sam Pratt,soccer,0.0
+533,Håvard Hjermstad,soccer,0.0
+534,Ale Gutierrez,soccer,0.0
+535,Ben Bryant,soccer,0.0
+536,Kaoru Fujiwara,soccer,0.0
+537,Loic Tagne,soccer,0.0
+538,Oskar Nilsson,soccer,0.0
+539,Ido Burstein,squash,0.0
+540,Victor Crouin,squash,0.0
+541,Julien Gosset,squash,0.0
+542,Conner Stoltz,squash,0.0
+543,Liam Waterous,squash,0.0
+544,David Abrahams,swimming,0.0
+545,Levente Bathory,swimming,0.0
+546,Alec DeCaprio,swimming,0.0
+547,Aayush Deshpande,swimming,0.0
+548,Cameron Green,swimming,0.0
+549,Quinn Harron,swimming,0.0
+550,Carlo Hensch,swimming,0.0
+551,Luca Hensch,swimming,0.0
+552,Jake Johnson,swimming,0.0
+553,Arik Katz,swimming,0.0
+554,Daniel Kim,swimming,0.0
+555,Braxton Marion,swimming,0.0
+556,Emmanuel Ngbemeneh,swimming,0.0
+557,Kevin Ong,swimming,0.0
+558,Alex Petty,swimming,0.0
+559,Daniel Puczko,swimming,0.0
+560,Corban Rawls,swimming,0.0
+561,Dylan Rhee,swimming,0.0
+562,Anthony Rincon,swimming,0.0
+563,Ryan Tierney,swimming,0.0
+564,Charles Vaughan,swimming,0.0
+565,Hal Watts,swimming,0.0
+566,Eric Whisenant,swimming,0.0
+567,David Arkow,tennis,0.0
+568,Ronan Jachuck,tennis,0.0
+569,David Lins,tennis,0.0
+570,Daniel Milavsky,tennis,0.0
+571,Brian Shi,tennis,0.0
+572,Henry von der Schulenburg,tennis,0.0
+573,Robert Wrzesinski,tennis,0.0
+574,Alan Yim,tennis,0.0
+575,Constantin Zoske,tennis,0.0
+576,Ethan Smith,volleyball,0.0
+577,Adam Gordon,volleyball,0.0
+578,Alessio Pignatelli,volleyball,0.0
+579,Eric Li,volleyball,0.0
+580,Ethan McCrary,volleyball,0.0
+581,Will Polster,volleyball,0.0
+582,Campbell Schoenfeld,volleyball,0.0
+583,Buddy Scott,volleyball,0.0
+584,Jason Shen,volleyball,0.0
+585,Will Sorenson,volleyball,0.0
+586,James Bardin,volleyball,0.0
+587,Trevor Schultz,volleyball,0.0
+588,Jeffrey Kwan,volleyball,0.0
+589,Noah Hodge,water polo,0.0
+590,Oliver Oz,water polo,0.0
+591,Nathan Wu,water polo,0.0
+592,Mot Stothart,water polo,0.0
+593,Michael Del Mundo,water polo,0.0
+594,Dennis Blyashov,water polo,0.0
+595,Gabe Putnam,water polo,0.0
+596,Michael Sonsini,water polo,0.0
+597,Max Keck,water polo,0.0
+598,Cam Dougherty,water polo,0.0
+599,Colin Le,water polo,0.0
+600,Roger Brockett,water polo,0.0
+601,Kaleb Archer,water polo,0.0
+602,Owen Hale,water polo,0.0
+603,Cole Bateman,wrestling,0.0
+604,Pierce Bausano,wrestling,0.0
+605,Beau Bayless,wrestling,0.0
+606,Cole Bayless,wrestling,0.0
+607,Philip Conigliaro,wrestling,0.0
+608,Zeth Dean,wrestling,0.0
+609,Mike Doggett,wrestling,0.0
+610,Peter Ferraro,wrestling,0.0
+611,Robert Groves,wrestling,0.0
+612,Kenny Herrmann,wrestling,0.0
+613,Will Hoeft,wrestling,0.0
+614,A.J. Jaffe,wrestling,0.0
+615,Michael Jaffe,wrestling,0.0
+616,Niko Katsuyoshi,wrestling,0.0
+617,Joshua Kim,wrestling,0.0
+618,Nick Marcenelle,wrestling,0.0
+619,Dillon Murphy,wrestling,0.0
+620,Andrew Pace,wrestling,0.0
+621,Tucker Ribman,wrestling,0.0
+622,Shane Rockett,wrestling,0.0
+623,Yaraslau Slavikouski,wrestling,0.0
+624,Matt Smith,wrestling,0.0
+625,Leo Tarantino,wrestling,0.0
+626,Trevor Tarsi,wrestling,0.0
+627,NAME,track,1.0
+628,Chrystal Aluya,track,1.0
+629,Kendall Bensche,track,1.0
+630,DaLoria Boone,track,1.0
+631,Anna Burt,track,1.0
+632,Kelisa Cain,track,1.0
+633,Aislinn Devlin,track,1.0
+634,Valentina Doerre Torres,track,1.0
+635,Louise Estberg,track,1.0
+636,Rachael Estell,track,1.0
+637,Chloe Fair,track,1.0
+638,Eloise Freitag,track,1.0
+639,Cammy Garabian,track,1.0
+640,Abbe Goldstein,track,1.0
+641,Kylie Hilton,track,1.0
+642,Claire Hotchkin,track,1.0
+643,Mayi Hughes,track,1.0
+644,Jada Johnson,track,1.0
+645,Jada Jones,track,1.0
+646,Shaked Leibovitz,track,1.0
+647,Fredericka Lucas,track,1.0
+648,Tessa Medrano,track,1.0
+649,Egbe Ndip-Agbor,track,1.0
+650,Ellie O'Hara,track,1.0
+651,Chelsea Offiaeli,track,1.0
+652,Olivia Okoli,track,1.0
+653,Sarah Omoregie,track,1.0
+654,Maia Ramsden,track,1.0
+655,Stephanie Ratcliffe,track,1.0
+656,Codi-Ann Reid,track,1.0
+657,Iza Sabharwal,track,1.0
+658,Isabel Sagar,track,1.0
+659,Sharelle Samuel,track,1.0
+660,Lisa Tertsch,track,1.0
+661,Meaghan Toscano,track,1.0
+662,Estel Valeanu,track,1.0
+663,Nick Azar,ice hockey,0.0
+665,RJ Murphy,ice hockey,0.0
+666,Benjamin Foley,ice hockey,0.0
+667,Benjamin Solin,ice hockey,0.0
+668,Jace Foskey,ice hockey,0.0
+669,John Murray,ice hockey,0.0
+670,Nick Abruzzese,ice hockey,0.0
+671,John Farinacci,ice hockey,0.0
+672,Ryan Siedem,ice hockey,0.0
+673,Buddy Mrowka,ice hockey,0.0
+674,Austin Wong,ice hockey,0.0
+675,Mitchell Gibson,ice hockey,0.0
+676,Marshall Rifai,ice hockey,0.0
+677,Henry Thrun,ice hockey,0.0
+679,Jack Bar,ice hockey,0.0
+681,Ryan Drkulec,ice hockey,0.0
+682,Sean Farrell,ice hockey,0.0
+683,John Fusco,ice hockey,0.0
+684,Alex Laferriere,ice hockey,0.0
+686,Max Miller,ice hockey,0.0
+687,Derek Mullahy,ice hockey,0.0
+688,Mitchell Perrault,ice hockey,0.0
+689,Derek Schaedig,ice hockey,0.0
+690,Casey Dornbach,ice hockey,0.0
